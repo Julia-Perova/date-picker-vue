@@ -1,0 +1,50 @@
+{
+  "dayNames": {
+    "monday": "Пн",
+    "tuesday": "Вт",
+    "wednesday": "Ср",
+    "thursday": "Чт",
+    "friday": "Пт",
+    "saturday": "Сб",
+    "sunday": "Вс"
+  },
+  "monthsNames": {
+    "full": {
+      "jan": "Январь",
+      "feb": "Февраль",
+      "mar": "Март",
+      "apr": "Апрель",
+      "may": "Май",
+      "jun": "Июнь",
+      "jul": "Июль",
+      "aug": "Август",
+      "sep": "Сентябрь",
+      "okt": "Октябрь",
+      "nov": "Ноябрь",
+      "dec": "Декабрь"
+    },
+    "short": {
+      "jan": "Янв",
+      "feb": "Фев",
+      "mar": "Мар",
+      "apr": "Апр",
+      "may": "Май",
+      "jun": "Июн",
+      "jul": "Июл",
+      "aug": "Авг",
+      "sep": "Сен",
+      "okt": "Окт",
+      "nov": "Ноя",
+      "dec": "Дек"
+    }
+  },
+  "datePlaceholder": "ДД.ММ.ГГГГ",
+  "dateBtnSaveLabel": "Сохранить",
+  "dateFormMessages": {
+    "saveBefore": "Дата была сохранена ранее",
+    "saveError": "Произошла ошибка сохранения даты",
+    "saveSuccess": "Дата успешно сохранена"
+  },
+  "mainTitle": "Тестовое задание",
+  "formTitle": "Ввод даты"
+}
